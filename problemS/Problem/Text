@@ -1,0 +1,33 @@
+
+<<<<<< THE PROBLEMS MAKE ME STORNGER AND STORNGER >>>>>>>>
+
+
+1. Sum of Two Numbers
+Write a program that takes two numbers as input and prints their sum.
+Purpose: Practice input/output and basic arithmetic.
+2. Even or Odd
+Write a program to check if a given number is even or odd.
+Purpose: Learn about conditionals (if-else statements).
+3. Find the Largest of Three Numbers
+Write a program to input three numbers and print the largest one.
+Purpose: Practice logical comparison and nested conditionals.
+4. Reverse a String
+Write a program to take a string as input and print it reversed.
+Purpose: Work with strings and loops or slicing.
+5. FizzBuzz
+Print numbers from 1 to 100. For multiples of 3, print "Fizz"; for multiples of 5, print "Buzz"; for multiples of both, print "FizzBuzz."
+Purpose: Practice loops, conditionals, and modular arithmetic.
+6. Factorial of a Number
+Write a program to calculate the factorial of a given number.
+Purpose: Introduce recursion or loop-based solutions.
+7. Check for Palindrome
+Write a program to check if a given word or phrase is a palindrome (reads the same forward and backward).
+Purpose: Combine string manipulation and logical conditions.
+8. Count Vowels in a String
+Write a program to count the number of vowels (a, e, i, o, u) in a given string.
+Purpose: Learn about loops and character matching.
+9. Find the Second Largest Number in a List
+Write a program to find the second largest number in a list of integers.
+Purpose: Work with arrays/lists and sorting logic.
+10. Generate Fibonacci Sequence
+Write a program to generate the first N numbers in the Fibonacci sequence.
